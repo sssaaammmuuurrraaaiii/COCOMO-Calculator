@@ -6,10 +6,12 @@ There is support for exporting the obtained data to Excel (for now only for the 
 For non-commercial use.
 
 P.S. Before using this tool, it is advisable to be familiar with the basic knowledge on this topic at the link below:
-https://www.educative.io/answers/what-is-the-cocomo-model
+https://www.educative.io/answers/what-is-the-cocomo-model 
 
-ENJOY!
+ENJOY!!!
+
 ---
+
 [RU]
 Данный GitHib-репозиторий содержит в себе готовый к использованию COCOMO-Калькулятор, написанный на языке объектно-ориентированного программирования C#.
 Имеется поддержка экспорта получаемых данных в Excel (пока только для Basic модели). 
@@ -18,4 +20,4 @@ ENJOY!
 P.S. Перед использованием данного инструмента, желательно быть ознакомленным с базовыми знаниями по данной тематике по ссылке ниже:
 https://www.educative.io/answers/what-is-the-cocomo-model
 
-НАСЛАЖДАЙТЕСЬ!
+НАСЛАЖДАЙТЕСЬ!!!
